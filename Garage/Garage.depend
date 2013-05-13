@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1362831509 source:/home/timo/Documents/Work/C++Training/Garage/Vehicule.cpp
+	"Vehicule.h"
+
+1363120870 /home/timo/Documents/Work/C++Training/Garage/Vehicule.h
+	<iostream>
+	<string>
+
+1362831735 source:/home/timo/Documents/Work/C++Training/Garage/main.cpp
+	<iostream>
+	"Vehicule.h"
+

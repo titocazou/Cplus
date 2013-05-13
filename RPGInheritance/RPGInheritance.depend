@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1362830903 source:/home/timo/Documents/Work/C++Training/RPGInheritance/Personnage.cpp
+	"Personnage.h"
+
+1362830871 /home/timo/Documents/Work/C++Training/RPGInheritance/Personnage.h
+	<iostream>
+	<string>
+
+1362776662 source:/home/timo/Documents/Work/C++Training/RPGInheritance/main.cpp
+	<string>
+	"Personnage.h"
+	"Magicien.h"
+
+1362776662 source:/home/timo/Documents/Work/C++Training/RPGInheritance/Guerrier.cpp
+
+1362775921 source:/home/timo/Documents/Work/C++Training/RPGInheritance/Magicien.cpp
+	"Magicien.h"
+
+1362830870 /home/timo/Documents/Work/C++Training/RPGInheritance/Magicien.h
+	<iostream>
+	<string>
+	"Personnage.h"
+

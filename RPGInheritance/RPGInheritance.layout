@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Guerrier.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1" topLine="0" />
+	</File>
+	<File name="Guerrier.h" open="1" top="0" tabpos="5">
+		<Cursor position="339" topLine="0" />
+	</File>
+	<File name="Magicien.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="342" topLine="0" />
+	</File>
+	<File name="Magicien.h" open="1" top="0" tabpos="7">
+		<Cursor position="278" topLine="0" />
+	</File>
+	<File name="Personnage.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="174" topLine="0" />
+	</File>
+	<File name="Personnage.h" open="1" top="0" tabpos="2">
+		<Cursor position="238" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="257" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

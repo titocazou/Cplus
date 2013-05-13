@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1213012279 source:/home/timo/Documents/Work/C++Training/RPG/Arme.cpp
+	"Arme.h"
+
+1300228556 /home/timo/Documents/Work/C++Training/RPG/Arme.h
+	<iostream>
+	<string>
+
+1361987414 source:/home/timo/Documents/Work/C++Training/RPG/main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1361987336 /home/timo/Documents/Work/C++Training/RPG/Personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1361987325 source:/home/timo/Documents/Work/C++Training/RPG/Personnage.cpp
+	"Personnage.h"
+
